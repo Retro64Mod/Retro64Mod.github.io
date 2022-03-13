@@ -7,6 +7,9 @@
 
 [Download latest Mod file](https://github.com/Retro64Mod/Retro64Mod.github.io/releases)
 
+# Interested on how I did this?
+Check out [this video](https://youtu.be/2yWKqc2rmHI) I made on the mod
+
 ## Installation Instructions
 This mod requires [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)
 1. Install [MSYS2](https://www.msys2.org/)
