@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Retro64 Mod
+### This mod lets you play your favorite 1996 platformer game in a modern Minecraft world.
 
-You can use the [editor on GitHub](https://github.com/Retro64Mod/Retro64Mod.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+[Download Build Tool](https://github.com/Retro64Mod/retro64-GUI-build-utility/releases)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Download Sound asset extractor (genfiles.exe)](https://github.com/Retro64Mod/sm64_asset_builder/releases)
 
-### Markdown
+[Download latest Mod file](https://github.com/Retro64Mod/Retro64Mod.github.io/releases)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Installation Instructions
+This mod requires [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)
+1. Install [MSYS2](https://www.msys2.org/)
+2. Download the Build tool linked above
+3. Launch the Build tool and press "Get Versions". If it's your first time running this, it might take a while.
+4. Select the version of the DLL to compile. You should select the same version as the mod (i.e if the mod is 1.18.2-1.0.0, select that in the version list)
+5. Make sure MSYS2 points towards the folder where you installed MSYS2
+6. Press "Compile" and wait.
+7. Once it is finished, a folder will open. Take `sm64.dll` and put it in your Minecraft's mods folder.
+8. Take the mod file (.jar) and also put it in your Minecraft's mods folder.
+9. If you want audio support, also take the genfiles.exe linked above and put it in your Minecraft's mods folder.
+10. Place your US ROM called (in .z64 format) in your Minecraft's mods folder. This mod only accepts the US .z64 version (`sha1: 9bef1128717f958171a4afac3ed78ee2bb4e86ce`)
+11. You should end up with **4 files total** for this mod in your mods folder
+12. Launch the game. 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Retro64Mod/Retro64Mod.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Note: Every version update might require performing the compilation process again
