@@ -7,8 +7,33 @@
 
 [Download latest Mod file](https://github.com/Retro64Mod/Retro64Mod.github.io/releases)
 
+
+
 # Interested on how I did this?
 Check out [this video](https://youtu.be/2yWKqc2rmHI) I made on the mod
+
+# FAQ
+
+**Does this mod work with shaders \(optifine\)?**
+
+No, shaders are currently not supported.
+
+**Is this mod compatible with this \[other mod\]?**
+
+I doubt it, but i'll try to add compatibility with other mods in the future, although it's not a priority at the moment.
+
+**Is there Multiplayer support?**
+
+Yes, but it's very work in progress. If you want the best experience, I suggest playing in singleplayer for now!
+
+**Why do I need sm64.dll?**
+
+This file contains all the main code to run the mod. It's based on the SM64 Decomp and libsm64 projects. My fork is open source and available [here](https://github.com/Retro64Mod/libsm64-retro64)
+
+**Why do I need `genfiles.exe`?**
+
+This tool extracts sound assets from the ROM. It is not required if you don't want sound.
+
 
 ## Installation Instructions
 This mod requires [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)
