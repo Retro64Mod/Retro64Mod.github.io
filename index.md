@@ -9,11 +9,27 @@
 
 [Download latest Mod file](https://github.com/Retro64Mod/Retro64Mod/releases)
 
+Please keep in mind that the mod is in beta, you *will* encounter bugs
 
 # Interested on how I did this?
 Check out [this video](https://youtu.be/2yWKqc2rmHI) I made on the mod
 
+# Info
+## Controls
+- M key: Toggle between Minecraft mode and 'Retro64 mode'
+- Z key: Open character selection menu
+- Left Alt: Punch/Action
+
+All of these bindings can be changed in settings
+
+## HP
+The health bars for each of the modes are separate. In Retro64 Mode, you have 4 hearts, or 8 hit points, corresponding to the SM64 health. You can heal by collecting XP orbs.
+
 # FAQ
+
+**Why do I need to compile the files myself?**
+
+Due to DMCA reasons, unfortunately. While libsm64 gets *most* data from a ROM file, other data isn't able to be extracted (yet). If you're interested in helping with that and know C programming, feel free to submit a PR to [the original libsm64 repo](https://github.com/libsm64/libsm64)
 
 **Does this mod work with shaders \(optifine\)?**
 
@@ -38,7 +54,7 @@ This tool extracts sound assets from the ROM. It is not required if you don't wa
 
 ## Installation Instructions
 This mod requires [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)
-1. Install [MSYS2](https://www.msys2.org/) If you already have it installed, you may need to fully un-install it and install the latest version. **Old versions sometimes do not work properly**
+1. Install [MSYS2](https://www.msys2.org/) If you already have it installed, you may need to fully un-install it and install the latest version. **Old versions sometimes do not work properly**. So if you are encountering issues, be sure to re-install MSYS2
 2. Download the Build tool linked above
 3. Launch the Build tool and press "Get Versions". If it's your first time running this, it might take a while.
 4. Select the version of the DLL to compile. You should select the same version as the mod (i.e if the mod is 1.18.2-1.0.0, select that in the version list)
