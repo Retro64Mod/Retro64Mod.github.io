@@ -1,12 +1,13 @@
 ## Retro64 Mod
 ### This mod lets you play your favorite 1996 platformer game in a modern Minecraft world.
 
+![Demo Video](https://i.imgur.com/8ZrVVpv.gif)
+
 [Download Build Tool](https://github.com/Retro64Mod/retro64-GUI-build-utility/releases)
 
 [Download Sound asset extractor (genfiles.exe)](https://github.com/Retro64Mod/sm64_asset_builder/releases)
 
 [Download latest Mod file](https://github.com/Retro64Mod/Retro64Mod/releases)
-
 
 
 # Interested on how I did this?
@@ -26,7 +27,7 @@ I doubt it, but i'll try to add compatibility with other mods in the future, alt
 
 Yes, but it's very work in progress. If you want the best experience, I suggest playing in singleplayer for now!
 
-**Why do I need sm64.dll?**
+**Why do I need `sm64.dll`?**
 
 This file contains all the main code to run the mod. It's based on the SM64 Decomp and libsm64 projects. My fork is open source and available [here](https://github.com/Retro64Mod/libsm64-retro64)
 
@@ -50,4 +51,4 @@ This mod requires [Minecraft Forge](https://files.minecraftforge.net/net/minecra
 11. You should end up with **4 files total** for this mod in your mods folder
 12. Launch the game. 
 
-Note: Every version update might require performing the compilation process again
+Note: Updates might require performing the compilation process again
