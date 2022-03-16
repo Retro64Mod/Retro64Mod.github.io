@@ -1,7 +1,7 @@
 ## Retro64 Mod
 ### This mod lets you play your favorite 1996 platformer game in a modern Minecraft world.
 
-![Demo Video](https://i.imgur.com/8ZrVVpv.gifv)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m working on a <a href="https://twitter.com/hashtag/Minecraft?src=hash&amp;ref_src=twsrc%5Etfw">#Minecraft</a> mod that runs the Super Mario 64 engine! It&#39;s very WIP right now but here&#39;s some highlights <a href="https://t.co/QCfzl10ip0">pic.twitter.com/QCfzl10ip0</a></p>&mdash; Dylan (@pdxdylan) <a href="https://twitter.com/pdxdylan/status/1437538144728064002?ref_src=twsrc%5Etfw">September 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [Download Build Tool](https://github.com/Retro64Mod/retro64-GUI-build-utility/releases)
 
