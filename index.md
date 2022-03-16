@@ -5,7 +5,7 @@
 
 [Download Sound asset extractor (genfiles.exe)](https://github.com/Retro64Mod/sm64_asset_builder/releases)
 
-[Download latest Mod file](https://github.com/Retro64Mod/Retro64Mod.github.io/releases)
+[Download latest Mod file](https://github.com/Retro64Mod/Retro64Mod/releases)
 
 
 
