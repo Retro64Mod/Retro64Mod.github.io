@@ -11,6 +11,8 @@
 
 Please keep in mind that the mod is in beta, you *will* encounter bugs
 
+If you do encounter bugs, i'd appreciate them being reported [here](https://github.com/Retro64Mod/Retro64Mod.github.io/issues)
+
 # Interested on how I did this?
 Check out [this video](https://youtu.be/2yWKqc2rmHI) I made on the mod
 
