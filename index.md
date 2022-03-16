@@ -14,6 +14,10 @@ Please keep in mind that the mod is in beta, you *will* encounter bugs
 # Interested on how I did this?
 Check out [this video](https://youtu.be/2yWKqc2rmHI) I made on the mod
 
+# Making content on this mod?
+
+Please credit me as @pdxdylan (Twitter handle), and make sure to say the mod is still a work in progress!
+
 # Info
 ## Controls
 - M key: Toggle between Minecraft mode and 'Retro64 mode'
