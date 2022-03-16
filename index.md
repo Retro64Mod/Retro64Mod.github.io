@@ -37,7 +37,7 @@ This tool extracts sound assets from the ROM. It is not required if you don't wa
 
 ## Installation Instructions
 This mod requires [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)
-1. Install [MSYS2](https://www.msys2.org/)
+1. Install [MSYS2](https://www.msys2.org/) If you already have it installed, you may need to fully un-install it and install the latest version. **Old versions sometimes do not work properly**
 2. Download the Build tool linked above
 3. Launch the Build tool and press "Get Versions". If it's your first time running this, it might take a while.
 4. Select the version of the DLL to compile. You should select the same version as the mod (i.e if the mod is 1.18.2-1.0.0, select that in the version list)
