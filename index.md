@@ -1,7 +1,7 @@
 ## Retro64 Mod
 ### This mod lets you play your favorite 1996 platformer game in a modern Minecraft world.
 
-![Demo Video](https://i.imgur.com/8ZrVVpv.gif)
+![Demo Video](https://i.imgur.com/8ZrVVpv.gifv)
 
 [Download Build Tool](https://github.com/Retro64Mod/retro64-GUI-build-utility/releases)
 
