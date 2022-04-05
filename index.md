@@ -57,9 +57,9 @@ This file contains all the main code to run the mod. It's based on the SM64 Deco
 
 This tool extracts sound assets from the ROM. It is not required if you don't want sound.
 
-
-## Installation Instructions
 This mod requires [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)
+
+## Installation Instructions (Windows)
 1. Install [MSYS2](https://www.msys2.org/) If you already have it installed, you may need to fully un-install it and install the latest version. **Old versions sometimes do not work properly**. So if you are encountering issues, be sure to re-install MSYS2
 2. Download the Build tool linked above
 3. Launch the Build tool and press "Get Versions". If it's your first time running this, it might take a while.
@@ -72,5 +72,27 @@ This mod requires [Minecraft Forge](https://files.minecraftforge.net/net/minecra
 10. Place your US ROM called (in .z64 format) in your Minecraft's mods folder. This mod only accepts the US .z64 version (`sha1: 9bef1128717f958171a4afac3ed78ee2bb4e86ce`)
 11. You should end up with **4 files total** for this mod in your mods folder
 12. Launch the game. 
+
+## Installation Instructions (Linux)
+For Linux, you'll have to compile the mod manually. This guide is for Debian based distros, but should work with the equivilant commands in other distros.
+1. Install Dependencies by running the following commands
+```sh
+sudo apt-get update
+sudo apt-get install build-essential git python3 libsdl2-dev
+```
+2. Clone the libsm64-retro64 repository, and enter it. This command will grab the latest version
+```sh
+git clone https://github.com/Retro64Mod/libsm64-retro64
+cd libsm64-retro64
+```
+3. Build the repository by running the following command
+```sh
+make
+```
+4. Copy the `libsm64.so` file in the `dist` directory into your Minecraft mods folder.
+5. Take the mod file (.jar) and also put it in your Minecraft's mods folder.
+6. **Audio is currently not supported, but is coming in a future version!**
+7. Place your US ROM called (in .z64 format) in your Minecraft's mods folder. This mod only accepts the US .z64 version (`sha1: 9bef1128717f958171a4afac3ed78ee2bb4e86ce`)
+8. Launch the game. 
 
 Note: Updates might require performing the compilation process again
