@@ -50,6 +50,8 @@ Yes, but it's very work in progress. If you want the best experience, I suggest 
 
 This mod requires [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)
 
+\* Note: For Windows, **Micosoft's antivirus (Windows Defender) might cause issues with running the mod**. This is due to the audio extraction currently requiring an exe file to work. If you know your way around the SM64 audio engine format and want to help fix this, check out the audio branch in the libsm64-retro64 repo (specifically, [this file](https://github.com/Retro64Mod/libsm64-retro64/blob/audio/src/decomp/tools/convUtils.c#L11-L18) as it's what i've been working on to properly do audio asset conversion.
+
 ## Installation Instructions (Windows, Linux, and Mac)
 1. Download the latest mod version and un-zip it.
 2. Take the mod file (.jar) and put it in your Minecraft's mods folder.
