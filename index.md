@@ -13,9 +13,9 @@ Please keep in mind that the mod is in beta, you *will* encounter bugs
 
 If you do encounter bugs, i'd appreciate them being reported [here](https://github.com/Retro64Mod/Retro64Mod.github.io/issues)
 
-Download the latest release of the mod [here](https://github.com/Retro64Mod/Retro64Mod/releases/tag/1.18.2-1.0.7)
+Download the latest release of the mod [here](https://github.com/Retro64Mod/Retro64Mod/releases/tag/1.18.2-1.0.9). Currently compatible with Minecraft 1.18.2
 
-If you want to access beta versions of the mod before they're released, check [this link](https://github.com/Retro64Mod/Retro64Mod/actions) for the most recent build of the mod. Note that these may not be stable and it's still suggested to go with the [official release](https://github.com/Retro64Mod/Retro64Mod/releases/tag/1.18.2-1.0.7)
+If you want to access beta versions of the mod before they're released, check [this link](https://github.com/Retro64Mod/Retro64Mod/actions) for the most recent build of the mod. Note that these may not be stable and it's still suggested to go with the [official release](https://github.com/Retro64Mod/Retro64Mod/releases/tag/1.18.2-1.0.9). You also need to be logged into GitHub to be able to download beta versions.
 
 # Interested on how I did this?
 Check out [this video](https://youtu.be/2yWKqc2rmHI) I made on the mod
