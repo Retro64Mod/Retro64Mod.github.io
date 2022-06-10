@@ -26,8 +26,7 @@ Enter the launcher you are using, i.e Vanilla, MultiMC, CurseForge, etc.
 **Please attach Screenshots or Crash logs if relevant to the bug**
 
 **Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
+ - OS: [e.g. iOS
  - Version [e.g. 22]
 
 **Additional context**
