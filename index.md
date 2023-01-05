@@ -3,7 +3,7 @@
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m working on a <a href="https://twitter.com/hashtag/Minecraft?src=hash&amp;ref_src=twsrc%5Etfw">#Minecraft</a> mod that runs the Super Mario 64 engine! It&#39;s very WIP right now but here&#39;s some highlights <a href="https://t.co/QCfzl10ip0">pic.twitter.com/QCfzl10ip0</a></p>&mdash; Dylan (@pdxdylan) <a href="https://twitter.com/pdxdylan/status/1437538144728064002?ref_src=twsrc%5Etfw">September 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[Download latest Mod file](https://github.com/Retro64Mod/Retro64Mod/releases/tag/1.18.2-1.0.9)
+[Download latest Mod file](https://github.com/Retro64Mod/Retro64Mod/releases/download/1.18.2-1.0.10/retro64-1.0.10.jar)
 
 Please keep in mind that the mod is in beta, you *will* encounter bugs
 
