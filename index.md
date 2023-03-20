@@ -53,6 +53,5 @@ This mod requires [Minecraft Forge](https://files.minecraftforge.net/net/minecra
 ## Installation Instructions (Windows, Linux, and Mac)
 1. Download the latest mod version and un-zip it.
 2. Take the mod file (.jar) and put it in your Minecraft's mods folder.
-3. (Mac OS ONLY) Install [brew](https://brew.sh/), and then SDL2 for audio support. Running `brew install sdl2` in terminal will install SDL2
-4. Place your US ROM called (in .z64 format) in your Minecraft's mods folder. This mod only accepts the US .z64 version (`sha1: 9bef1128717f958171a4afac3ed78ee2bb4e86ce`)
-5. Launch the game. 
+3. Place your US ROM called (in .z64 format) in your Minecraft's mods folder. This mod only accepts the US .z64 version (`sha1: 9bef1128717f958171a4afac3ed78ee2bb4e86ce`)
+4. Launch the game. 
