@@ -53,5 +53,5 @@ This mod requires [Minecraft Forge](https://files.minecraftforge.net/net/minecra
 ## Installation Instructions (Windows, Linux, and Mac)
 1. Download the latest mod version and un-zip it.
 2. Take the mod file (.jar) and put it in your Minecraft's mods folder.
-3. Place your US ROM called (in .z64 format) in your Minecraft's mods folder. This mod only accepts the US .z64 version (`sha1: 9bef1128717f958171a4afac3ed78ee2bb4e86ce`)
+3. Place your US ROM (in .z64 format) in your Minecraft's mods folder. This mod only accepts the US .z64 version (`sha1: 9bef1128717f958171a4afac3ed78ee2bb4e86ce`)
 4. Launch the game. 
