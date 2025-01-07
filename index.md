@@ -3,15 +3,15 @@
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m working on a <a href="https://twitter.com/hashtag/Minecraft?src=hash&amp;ref_src=twsrc%5Etfw">#Minecraft</a> mod that runs the Super Mario 64 engine! It&#39;s very WIP right now but here&#39;s some highlights <a href="https://t.co/QCfzl10ip0">pic.twitter.com/QCfzl10ip0</a></p>&mdash; Dylan (@pdxdylan) <a href="https://twitter.com/pdxdylan/status/1437538144728064002?ref_src=twsrc%5Etfw">September 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[Download latest Mod file](https://github.com/Retro64Mod/Retro64Mod/releases/download/1.18.2-1.0.13/retro64-1.18.2-1.0.13.jar)
+[Download latest Mod file](https://dlgithub.com/Retro64Mod/Retro64Mod/releases/latest)
 
 Please keep in mind that the mod is in beta, you *will* encounter bugs
 
 If you do encounter bugs, i'd appreciate them being reported [here](https://github.com/Retro64Mod/Retro64Mod.github.io/issues)
 
-Download the latest release of the mod [here](https://github.com/Retro64Mod/Retro64Mod/releases/tag/1.18.2-1.0.13). Currently compatible with Minecraft 1.18.2
+Download the latest release of the mod [here](https://dlgithub.com/Retro64Mod/Retro64Mod/releases/latest). Currently compatible with Minecraft 1.21.1
 
-If you want to access beta versions of the mod before they're released, check [this link](https://github.com/Retro64Mod/Retro64Mod/actions) for the most recent build of the mod. Note that these may not be stable and it's still suggested to go with the [official release](https://github.com/Retro64Mod/Retro64Mod/releases/tag/1.18.2-1.0.13). You also need to be logged into GitHub to be able to download beta versions.
+If you want to access beta versions of the mod before they're released, check [this link](https://github.com/Retro64Mod/Retro64Mod/actions) for the most recent build of the mod. Note that these may not be stable and it's still suggested to go with the [official release](https://dlgithub.com/Retro64Mod/Retro64Mod/releases/latest). You also need to be logged into GitHub to be able to download beta versions.
 
 # Interested on how I did this?
 Check out [this video](https://youtu.be/2yWKqc2rmHI) I made on the mod
