@@ -5,6 +5,8 @@
 
 [Download latest Mod file](https://dlgithub.com/Retro64Mod/Retro64Mod/releases/latest)
 
+Versions for 1.21.1 and above are for NeoForged. 1.20.1 and below are for Forge.
+
 Please keep in mind that the mod is in beta, you *will* encounter bugs
 
 If you do encounter bugs, i'd appreciate them being reported [here](https://github.com/Retro64Mod/Retro64Mod.github.io/issues)
@@ -36,7 +38,7 @@ The health bars for each of the modes are separate. In Retro64 Mode, you have 4 
 
 **Does this mod work with shaders \(optifine\)?**
 
-No, shaders are currently not supported.
+No, shaders are currently not supported. Additionally, any mod that modifies Minecraft's rendering is not supported.
 
 **Is this mod compatible with this \[other mod\]?**
 
