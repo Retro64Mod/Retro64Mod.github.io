@@ -39,6 +39,7 @@ The health bars for each of the modes are separate. In Retro64 Mode, you have 4 
 **Does this mod work with shaders \(optifine\)?**
 
 No, shaders are currently not supported. Additionally, any mod that modifies Minecraft's rendering is not supported.
+Examples of such mods are OptiFine, Sodium, ImmediatelyFast, etc.
 
 **Is this mod compatible with this \[other mod\]?**
 
